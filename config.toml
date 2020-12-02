@@ -1,0 +1,11 @@
+baseURL = "https://chareice.com/"
+languageCode = "zh-CN"
+title = "ChengLei's Blog"
+theme = "cactus"
+[params]
+  mainSection = "posts"
+  logo = "https://www.gravatar.com/avatar/a73273d3f14cf032003d1af128bdcb9b?s=100&d=identicon"
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/ChareiceShao"
+
